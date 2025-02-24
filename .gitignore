@@ -1,0 +1,18 @@
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore environment folder
+venv/
+.env
+
+# Ignore database
+db.sqlite3
+
+# Ignore Django migrations
+*/migrations/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
