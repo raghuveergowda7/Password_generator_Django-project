@@ -35,6 +35,10 @@ python manage.py createsuperuser
 
 python manage.py runserver
 
+### 3. Install Dependencies
 
+Run the following command to install all required dependencies:
 
+```bash
+pip install -r requirements.txt
 
